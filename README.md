@@ -12,3 +12,6 @@ Here's an infographic I made using Canva showing where Lehigh undergraduate stud
 Another infographic related to skiing made with Canva:
 ---
 ![Ski mountains](https://github.com/kms320/kms320.github.io/blob/master/mountains.png?raw=true)
+
+Timeline of the Rio 2016 Olympics:
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Qsnirs692akWLLafst1VdKGKy5s7CcBf1CgdmRYKhxo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
