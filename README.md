@@ -15,3 +15,6 @@ Another infographic related to skiing made with Canva:
 
 Timeline of the Rio 2016 Olympics:
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Qsnirs692akWLLafst1VdKGKy5s7CcBf1CgdmRYKhxo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+The history of my favorite band Coldplay:
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Car9BWVnHvRgQDnVViyNf2XTJnZoIp4dMAVAxyw7vK0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
