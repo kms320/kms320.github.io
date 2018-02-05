@@ -18,3 +18,6 @@ Timeline of the Rio 2016 Olympics:
 
 The history of my favorite band Coldplay:
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Car9BWVnHvRgQDnVViyNf2XTJnZoIp4dMAVAxyw7vK0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+Here's a chart I made using Chartbuilder showing Lehigh undergraduate enrollment:
+![Enrollment](https://github.com/kms320/kms320.github.io/blob/master/Percent_of_Undergraduate_Enrollment_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png)
