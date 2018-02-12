@@ -26,3 +26,6 @@ Here's a chart I made using Chartbuilder showing Lehigh undergraduate enrollment
 Undergraduate enrollment from 2008-2017:
 
 ![Enrollmentovertime](https://github.com/kms320/kms320.github.io/blob/master/lineenrollchart.png?raw=true)
+
+This chart shows the change in the earth's temperature over the last 10 years in degrees Celsius with data taken from NASA. Things have definitely been getting warmer!
+![Globalwarming](https://github.com/kms320/kms320.github.io/blob/master/tempchart.png?raw=true)
