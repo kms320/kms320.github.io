@@ -21,4 +21,4 @@ The history of my favorite band Coldplay:
 
 Here's a chart I made using Chartbuilder showing Lehigh undergraduate enrollment:
 
-![Enrollment](https://github.com/kms320/kms320.github.io/blob/master/Percent_of_Undergraduate_Enrollment_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png)
+![Enrollment](https://github.com/kms320/kms320.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_by_College_Undergraduate_Enrollment_chartbuilder.png?raw=true)
