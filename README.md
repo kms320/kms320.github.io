@@ -25,4 +25,4 @@ Here's a chart I made using Chartbuilder showing Lehigh undergraduate enrollment
 
 Undergraduate enrollment from 2008-2017:
 
-![Enrollmentovertime](https://github.com/kms320/kms320.github.io/blob/master/lineenrollchart.png)
+![Enrollmentovertime](https://github.com/kms320/kms320.github.io/blob/master/lineenrollchart.png?raw=true)
