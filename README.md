@@ -29,3 +29,6 @@ Undergraduate enrollment from 2008-2017:
 
 This chart shows the change in the earth's temperature over the last 10 years in degrees Celsius with data taken from NASA. Things have definitely been getting warmer!
 ![Globalwarming](https://github.com/kms320/kms320.github.io/blob/master/tempchart.png?raw=true)
+
+I made a map showing arts centers in the Bethlehem area with Google Fusion Tables.
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1ETJ2MfheB6XHDNHW8Ub5H7d22jXiw9mjVenvOM9K&amp;viz=MAP&amp;h=false&amp;lat=40.61098586618022&amp;lng=-75.38028144760744&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
