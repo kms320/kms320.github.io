@@ -35,6 +35,7 @@ I made a map showing arts centers in the Bethlehem area with Google Fusion Table
 
 ##Top Ice Cream Shops in the U.S.
 My favorite food is ice cream, so I couldn't help but make a map showing the top ice cream shops in the 50 U.S. states. The data is based on a list from [The Thrillest](https://www.thrillist.com/eat/nation/best-ice-cream-shops-every-state).
+<br>
 
 <iframe width="750" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+166Lq2D6SB18w7nqxUgZhsRF-82c4NRfLcIgiIp9N&amp;viz=MAP&amp;h=false&amp;lat=42.80667457545309&amp;lng=-78.47923660789822&amp;t=1&amp;z=6&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 ## Top Baby Names
