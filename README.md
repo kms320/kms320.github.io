@@ -33,7 +33,7 @@ This chart shows the change in the earth's temperature over the last 10 years in
 I made a map showing arts centers in the Bethlehem area with Google Fusion Tables.
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1ETJ2MfheB6XHDNHW8Ub5H7d22jXiw9mjVenvOM9K&amp;viz=MAP&amp;h=false&amp;lat=40.61098586618022&amp;lng=-75.38028144760744&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-##Top Ice Cream Shops in the U.S.
+## Top Ice Cream Shops in the U.S.
 My favorite food is ice cream, so I couldn't help but make a map showing the top ice cream shops in the 50 U.S. states. The data is based on a list from [The Thrillest](https://www.thrillist.com/eat/nation/best-ice-cream-shops-every-state).
 <br>
 
