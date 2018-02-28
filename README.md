@@ -12,14 +12,14 @@ Here's an infographic I made using Canva showing where Lehigh undergraduate stud
 ![Lehigh residence](https://github.com/kms320/kms320.github.io/blob/master/Hugsomeone%20(1).png?raw=true)
 
 ---
-Skiing Infographic
+### Skiing Infographic
 This infographic shows the highest mountains in the Northeast, some of which I've been to.
 
 ---
 ![Ski mountains](https://github.com/kms320/kms320.github.io/blob/master/mountains.png?raw=true)
 
 # Timelines
-## Made with
+## Made with TimelineJS
 
 Timeline of the Rio 2016 Olympics:
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Qsnirs692akWLLafst1VdKGKy5s7CcBf1CgdmRYKhxo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
