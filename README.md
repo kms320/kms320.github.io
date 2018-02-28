@@ -4,7 +4,7 @@
 ![Picture of me](http://thebrownandwhite.com/wp-content/uploads/2017/02/Sippin-edit-desk-Web-200x300.jpg)
 
 Hi! I'm Kayla, a sophomore, double majoring in Journalism and Psychology. In my free time, I write and edit for the [Brown and White](https://thebrownandwhite.com), play ultimate frisbee and I'm in Phi Sigma Pi. I'm excited to learn more about data visualization this semester!
-
+---
 # Infographics
 ## Made with Canva
 
@@ -38,7 +38,7 @@ Undergraduate enrollment from 2008-2017:
 ---
 This chart shows the change in the earth's temperature over the last 10 years in degrees Celsius with data taken from NASA. Things have definitely been getting warmer!
 ![Globalwarming](https://github.com/kms320/kms320.github.io/blob/master/tempchart.png?raw=true)
-
+---
 # Maps
 ## Made with Google Fusion Tables
 
