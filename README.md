@@ -4,7 +4,7 @@
 ![Picture of me](http://thebrownandwhite.com/wp-content/uploads/2017/02/Sippin-edit-desk-Web-200x300.jpg)
 
 Hi! I'm Kayla, a sophomore, double majoring in Journalism and Psychology. In my free time, I write and edit for the [Brown and White](https://thebrownandwhite.com), play ultimate frisbee and I'm in Phi Sigma Pi. I'm excited to learn more about data visualization this semester!
----
+
 # Infographics
 ## Made with Canva
 
@@ -13,6 +13,8 @@ Here's an infographic I made using Canva showing where Lehigh undergraduate stud
 
 ---
 Skiing Infographic
+This infographic shows the highest mountains in the Northeast, some of which I've been to.
+
 ---
 ![Ski mountains](https://github.com/kms320/kms320.github.io/blob/master/mountains.png?raw=true)
 
