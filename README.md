@@ -13,7 +13,7 @@ Hi! I'm Kayla, a sophomore, double majoring in Journalism and Psychology. In my 
 # Infographics
 ## Made with Canva
 ### Skiing Infographic
-This infographic shows the highest mountains in the Northeast, some of which I've been to.
+This infographic shows the highest ski resort mountains in the Northeast, some of which I've been to.
 
 ---
 ![Ski mountains](https://github.com/kms320/kms320.github.io/blob/master/mountains.png?raw=true)
