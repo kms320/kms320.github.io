@@ -5,7 +5,7 @@
 
 Hi! I'm Kayla, a sophomore, double majoring in Journalism and Psychology. In my free time, I write and edit for the [Brown and White](https://thebrownandwhite.com), play ultimate frisbee and I'm in Phi Sigma Pi. I'm excited to learn more about data visualization this semester!
 
-![Comic](https://github.com/kms320/kms320.github.io/blob/master/Comic.PNG)
+![Comic](https://github.com/kms320/kms320.github.io/blob/master/Comic.PNG?raw=true)
 
 # Infographics
 ## Made with Canva
