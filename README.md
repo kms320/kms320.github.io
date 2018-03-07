@@ -38,21 +38,13 @@ This chart demonstrates the amount of hard ice cream produced each month through
 ## Made with Google Fusion Tables
 ### Top Ice Cream Shops in the U.S.
 ---
-My favorite food is ice cream, so I couldn't help but make a map showing the top ice cream shops in the 50 U.S. states. The data is based on a list from [The Thrillest](https://www.thrillist.com/eat/nation/best-ice-cream-shops-every-state).
+My favorite food is ice cream, so I couldn't help but make a map showing the top ice cream shops in the 50 U.S. states, some of which I've been to. The data is based on a list from [The Thrillest](https://www.thrillist.com/eat/nation/best-ice-cream-shops-every-state).
 <br>
 
 <iframe width="750" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+166Lq2D6SB18w7nqxUgZhsRF-82c4NRfLcIgiIp9N&amp;viz=MAP&amp;h=false&amp;lat=40.31303078002214&amp;lng=-95.47161969853377&amp;t=1&amp;z=5&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 ---
 # Intertactive Datasets
 ## Made with Tableau
-
-## Top Baby Names
-
-<div class='tableauPlaceholder' id='viz1519073752790' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;Babynames_14&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Babynames_14&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image'value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;Babynames_14&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1519073752790'); var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';    var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';   vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
----
-### Jobs by Generation
-<div class='tableauPlaceholder' id='viz1519245994139' style='position: relative'><noscript><a href='#'><img alt='Change in Jobs for Baby Boomers and Millenials from 2007-2014 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Jo&#47;JobsbyGeneration_1&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='JobsbyGeneration_1&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Jo&#47;JobsbyGeneration_1&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1519245994139');        var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
----
 ### Employment and Earnings by College Major
 This visualization shows the earnings and employment based on college major. As you can see, engineering majors make the most money, while there are the most people who work in the field of business. The data comes from the American Community Survey 2010-2012 Public Use Microdata Series.
 
