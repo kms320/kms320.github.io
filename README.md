@@ -3,17 +3,15 @@
 ---
 ![Picture of me](http://thebrownandwhite.com/wp-content/uploads/2017/02/Sippin-edit-desk-Web-200x300.jpg)
 
-Hi! I'm Kayla, a sophomore, double majoring in Journalism and Psychology. In my free time, I write and edit for the [Brown and White](https://thebrownandwhite.com), play ultimate frisbee and I'm in Phi Sigma Pi. I'm excited to learn more about data visualization this semester!
+Hi! I'm Kayla, a sophomore, double majoring in Journalism and Psychology. In my free time at Lehigh, I write and edit for the [Brown and White](https://thebrownandwhite.com), play ultimate frisbee and I'm in Phi Sigma Pi. I'm excited to learn more about data visualization this semester! The data visualizations I've made throughout the semester demonstrate my interests - I've created visualizations about my favorite treat, ice cream, my favorite band Coldplay and skiing.
+
+# Comics
+## Made with Pixton
 
 ![Comic](https://github.com/kms320/kms320.github.io/blob/master/Comic.PNG?raw=true)
 
 # Infographics
 ## Made with Canva
-
-Here's an infographic I made using Canva showing where Lehigh undergraduate students live. As you can see, most students live in residence halls.
-![Lehigh residence](https://github.com/kms320/kms320.github.io/blob/master/Hugsomeone%20(1).png?raw=true)
-
----
 ### Skiing Infographic
 This infographic shows the highest mountains in the Northeast, some of which I've been to.
 
@@ -22,34 +20,24 @@ This infographic shows the highest mountains in the Northeast, some of which I'v
 
 # Timelines
 ## Made with TimelineJS
+### The formation and history of the band Coldplay 
 
-Timeline of the Rio 2016 Olympics:
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Qsnirs692akWLLafst1VdKGKy5s7CcBf1CgdmRYKhxo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
----
-The history of my favorite band Coldplay:
+If I'm listenting to music, you'll usually catch me listening to Coldplay. This timeline shows a history of when Coldplay formed, when their albums came out and information about their tours.
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Car9BWVnHvRgQDnVViyNf2XTJnZoIp4dMAVAxyw7vK0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 ---
 # Charts
 ## Made with Chartbuilder
+### Ice Cream Production
 
-Here's a chart I made using Chartbuilder showing Lehigh undergraduate enrollment:
+This chart demonstrates the amount of hard ice cream produced each month throughout the year of 2016. Unsurprisingly, more ice cream is produced in the warmer months.
 
-![Enrollment](https://github.com/kms320/kms320.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_by_College_Undergraduate_Enrollment_chartbuilder.png?raw=true)
----
-Undergraduate enrollment from 2008-2017:
-
-![Enrollmentovertime](https://github.com/kms320/kms320.github.io/blob/master/lineenrollchart.png?raw=true)
----
-This chart shows the change in the earth's temperature over the last 10 years in degrees Celsius with data taken from NASA. Things have definitely been getting warmer!
-![Globalwarming](https://github.com/kms320/kms320.github.io/blob/master/tempchart.png?raw=true)
+![Production](https://github.com/kms320/kms320.github.io/blob/master/Gallons_of_Hard_Ice_Cream_Produced_in_the_US_in_2016__chartbuilder.png?raw=true)
 ---
 # Maps
 ## Made with Google Fusion Tables
-
-I made a map showing arts centers in the Bethlehem area with Google Fusion Tables.
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1ETJ2MfheB6XHDNHW8Ub5H7d22jXiw9mjVenvOM9K&amp;viz=MAP&amp;h=false&amp;lat=40.61098586618022&amp;lng=-75.38028144760744&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
----
 ### Top Ice Cream Shops in the U.S.
+---
 My favorite food is ice cream, so I couldn't help but make a map showing the top ice cream shops in the 50 U.S. states. The data is based on a list from [The Thrillest](https://www.thrillist.com/eat/nation/best-ice-cream-shops-every-state).
 <br>
 
